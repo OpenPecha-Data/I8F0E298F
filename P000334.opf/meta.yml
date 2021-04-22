@@ -1,15 +1,16 @@
-id: opecha:P000334
+id: P000334
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24016
   title: བོད་ཀྱི་གཏམ་དཔེ་ཕྱོགས་བསྒྲིགས།
-  volume:
+  author: ''
+  volumes:
     917f83987f6c4cdcb6be7e99f6d51dc4:
       image_group_id: I1KG24073
       title: Volume 1 of bod kyi gtam dpe phyogs bsgrigs/
       volume_number: 1
       total_pages: 310
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་གཏམ་དཔེ་ཕྱོགས་བསྒྲིགས།
   author: ''
