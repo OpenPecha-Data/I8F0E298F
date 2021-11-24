@@ -1,5 +1,7 @@
 id: P000334
 initial_creation_type: ocr
+created_at: 13/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG24016
   title: བོད་ཀྱི་གཏམ་དཔེ་ཕྱོགས་བསྒྲིགས།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 310
       base_file: v001.txt
-ebook_metadata:
-  title: བོད་ཀྱི་གཏམ་དཔེ་ཕྱོགས་བསྒྲིགས།
-  author: ''
-  sku: P000334
-  cover: cover.jpg
-  layers:
-  - pagination
